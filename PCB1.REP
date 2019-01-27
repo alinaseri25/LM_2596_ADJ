@@ -1,0 +1,40 @@
+Teardrop Report PCB1.PcbDoc
+On 1/8/2019 at 08:54:59
+
+Pads visited                : 27
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad L2-1(109.982mm,73.914mm) on Multi-Layer
+Pad L2-2(109.982mm,96.774mm) on Multi-Layer
+Pad L_1-1(84.836mm,97.536mm) on Multi-Layer
+Pad L_1-2(84.836mm,74.676mm) on Multi-Layer
+Pad R_Feedback_1-1(93.98mm,87.503mm) on Multi-Layer
+Pad R_Feedback_1-2(93.98mm,90.043mm) on Multi-Layer
+Pad R_Feedback_1-3(93.98mm,92.583mm) on Multi-Layer
+Pad C_In_1-2(62.484mm,85.892mm) on Multi-Layer
+Pad C_In_1-1(62.484mm,90.892mm) on Multi-Layer
+Pad C_Out_1-2(92.075mm,81.875mm) on Multi-Layer
+Pad C_Out_1-1(92.075mm,76.875mm) on Multi-Layer
+Pad C_Out_2-2(100.878mm,90.805mm) on Multi-Layer
+Pad C_Out_2-1(105.878mm,90.805mm) on Multi-Layer
+Pad R_Feedback_2-2(104.267mm,80.391mm) on Multi-Layer
+Pad R_Feedback_2-1(96.647mm,80.391mm) on Multi-Layer
+Pad P_Output_1-2(102.235mm,96.012mm) on Multi-Layer
+Pad P_Output_1-1(104.775mm,96.012mm) on Multi-Layer
+Pad P_Input_1-2(57.531mm,86.868mm) on Multi-Layer
+Pad P_Input_1-1(57.531mm,89.408mm) on Multi-Layer
+Pad U_1-1(70.891mm,82.652mm) on Top Layer
+Pad U_1-2(72.593mm,82.652mm) on Top Layer
+Pad U_1-3(74.295mm,82.652mm) on Top Layer
+Pad U_1-4(75.997mm,82.652mm) on Top Layer
+Pad U_1-5(77.699mm,82.652mm) on Top Layer
+Pad U_1-6(74.295mm,91.846mm) on Top Layer
+Pad D1-2(73.061mm,75.184mm) on Top Layer
+Pad D1-1(77.561mm,75.184mm) on Top Layer
+
+Via teardrops failed : 0
+
+
